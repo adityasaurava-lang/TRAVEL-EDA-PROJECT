@@ -36,19 +36,32 @@ Insights Generation
                 
 📊 Visualizations
 Bar Charts
+
 Count Plots
+
 Heatmaps
+
 Distribution Graphs
+
 3D Graphs
+
 violinplot
+
 lineplot
+
 barplot
+
 crosstab... etc
+
 📁 Project Files
 TRAVEL EDA_PROJECT.ipynb → Main analysis notebook
+
 README.md → Project description
+
 🚀 Conclusion
+
 This project helps in understanding the new graphs 
+
 
 🙌 Author
 Aditya Raj BTech CSE (AI & DS) Student
