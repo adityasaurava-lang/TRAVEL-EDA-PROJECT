@@ -13,11 +13,17 @@ Contains information about CustomerID', 'ProdTaken', 'Age', 'TypeofContact', 'Ci
        
 🛠️ Tools & Technologies Used
 Python 🐍
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
+
 🔍 Steps Performed (EDA Process)
 Data Loading
 
